@@ -1,0 +1,8 @@
+/build/
+/.gradle/
+/.idea/
+/.git/
+/gradle/
+/src/main/java/Solution*
+gradle*
+.DS_Store
